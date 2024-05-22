@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='data_preprocessing_lib_byarat',
-    version='0.1.0',
-    description='A easy peasy comprehensive library for data preprocessing tasks',
+    version='1.2.0',
+    description='An easy peasy comprehensive library for data preprocessing tasks',
     author='Mehdi Miraç ARAT, Latif Şimşek',
     author_email='mehdimirac.arat@stu.fsm.edu.tr, latif.simsek@stu.fsm.edu.tr',
     packages=find_packages(),
